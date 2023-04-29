@@ -44,7 +44,7 @@ User the size prop to change the input size. Choose one from 'sm:text-md' | 'tex
   <Input id='default-input' placeholder="Default input" />
 </div>
 <div class='mb-6'>
-  <Label for='large-input' class='block mb-2'>Small input</Label>
+  <Label for='small-input' class='block mb-2'>Small input</Label>
   <Input size="sm" placeholder="Small input" label="Small input"/>
 </div>
 ```
